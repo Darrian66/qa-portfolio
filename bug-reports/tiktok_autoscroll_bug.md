@@ -4,6 +4,7 @@
 
 Окружение:
 Windows 11 / Firefox 145.0(Incognito), Edge 142.0.3595.80
+
 Iphone / Safari
 
 Шаги для воспроизведения:
