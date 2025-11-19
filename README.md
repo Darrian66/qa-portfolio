@@ -10,7 +10,7 @@
 - Mini Projects (полные тестовые проекты)
 - Tools (Postman, SQL)
 
-## 🔧 Инструменты, которые я использую:
+ Инструменты, которые я использую:
 - Jira / YouTrack
 - Postman
 - SQL
@@ -18,4 +18,4 @@
 - Git + GitHub
 - Mobile testing basics
 
-## 📞 Контакты
+Контакты
